@@ -1,0 +1,23 @@
+.XTI Textures
+	Need more info for this type. Uses HEX named subtextures in a bigger texture map. Textures are made up of .DDS textures. Has full size resolution information but somehow further compresses data by cropping out non-used areas.
+	
+.DDS Textures
+	Each main texture in the .XTI file is a .DDS DXT5 texture with interpolated alpha.
+	
+.DDS Cropping
+	By cropping textures (seems to be either 24x or 32x pixel blocks) in height, you can shave size off the texture.
+
+=======================================
+
+2D_tex.xti
+Location Name English = Acumin Variable Concept, Medium, RGB#818181
+Location Name Japanese = MS Gothic, Regular, RGB#818181
+
+densou_log.xti
+Font = Lucida Console, Regular, RGB#FFFFFF
+
+mgs2logo.xti
+Subtitles = Acumin Variable Concept, Condensed Bold, RGB#8b8b8b
+
+node_bg.xti
+Plant Text = Acumin Variable Concept, Bold, RGB#FFFFFF
