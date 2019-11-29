@@ -18,10 +18,11 @@ Run the PowerShell script, or extract the ZIP somewhere comfortable and follow b
     ├── bin                 # Game EXE and VFansss launcher
     ├── backup              # Recommended location for your backup
     ├── cdrom.img           # Original assets folder
-    │   ├── cdrom.img       # Compiled assets folder
-    │   └── source          # Source assets folder
+    │   ├── face            # Codec asset folder
+	│   ├── pac             # FMV asset folder
+    │   └── stage           # Stage asset folder
     └── mgs2-pchd           # HD Pack folder
-        ├── cdrom.img		# Compiled assets folder
+        ├── cdrom.img       # Compiled assets folder
         └── source          # Source assets folder
 
 Drag and drop the CDROM.IMG folder from MGS2-PCHD over the top of the install path's CDROM.IMG folder.
