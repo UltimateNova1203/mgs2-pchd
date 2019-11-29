@@ -39,6 +39,7 @@ Any [contributors](https://github.com/UltimateNova1203/mgs2-pchd/contributors) w
 ## Acknowledgments
 
 * kellymoen, for the handy MGDecrypt tool: https://github.com/kellymoen/MGDecrypt
+* AnonRunzes and Nisto (from HCS64), For the sdt_demux.py script to convert the movies.
 * Turfster, for the infinitely useful Solidus tool.
 * VFansss, for the amazing patch to get the PC version running on modern hardware: https://github.com/VFansss/mgs2-v-s-fix
 * Bluepoint Games, for the HD Edition.
