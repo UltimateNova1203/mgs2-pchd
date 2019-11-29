@@ -35,13 +35,14 @@ Run the PowerShell script, or restore your backup.
 
 * **Sam/Vega** [UltimateNova1203](https://github.com/UltimateNova1203)
 
-Any [contributors](https://github.com/UltimateNova1203/mgs2-pchd/contributors) who may have contributed.
+Any [contributors](https://github.com/UltimateNova1203/mgs2-pchd/contributors) can be found here.
 
 ## Acknowledgments
 
-* kellymoen, for the handy MGDecrypt tool: https://github.com/kellymoen/MGDecrypt
-* AnonRunzes and Nisto (from HCS64), For the sdt_demux.py script to convert the movies.
-* Turfster, for the infinitely useful Solidus tool.
-* VFansss, for the amazing patch to get the PC version running on modern hardware: https://github.com/VFansss/mgs2-v-s-fix
+* AnonRunzes and Nisto (from HCS64), for the sdt_demux.py script.
 * Bluepoint Games, for the HD Edition.
 * Hideo Kojima, for the experience.
+* Joy Division, for various MGS/ZOE tools: https://github.com/Joy-Division/tools-mgs
+* kellymoen, for the MGDecrypt tool: https://github.com/kellymoen/MGDecrypt
+* Turfster, for the Solidus tool.
+* VFansss, for the modern PC patch: https://github.com/VFansss/mgs2-v-s-fix
