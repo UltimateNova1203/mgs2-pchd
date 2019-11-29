@@ -16,9 +16,9 @@ Run the PowerShell script, or extract the ZIP somewhere comfortable and follow b
 
 ...
 MGS2S
- > BIN
- > CDROM.IMG
- > MGS2-PCHD
+ -> BIN
+ -> CDROM.IMG
+ -> MGS2-PCHD
 ...
 
 Drag and drop the CDROM.IMG folder from this pack over the top of the install path's CDROM.IMG folder.
