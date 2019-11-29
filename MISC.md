@@ -6,30 +6,39 @@ Information regarding files and folders used in the game.
 
 ### FMV Formats
 
+```code
 Opening = MPEG-1 Video Codec, 3000kb/s, 30/1.001 FPS, 512x320, YUVp420
 Basic Actions Videos = MPEG-1 Video 1500kb/s, 30/1.001 FPS, 224x160, YUVp420
 Radar Videos = MPEG-1 Codec, 1500kb/s, 30/1.001 FPS, 128x128, YUVp420
 VR Mission Demo Videos = MPEG-1 Codec, 1500kb/s, 30/1.001 FPS, 176x128, YUVp420
 .sdt
+```
 
 ### FMV Titles
 
+```code
 Opening - Sons of Liberty = op.pac
 Opening - Substance = op_sub.pac
 Staff Roll Movie 2 = ed_02mini.pac
 Staff Roll Movie 3 = ed_03.pac
 Shell 1 Core PC Display = p070_disp_all.pac
 Tanker Holds Camera Cracked = t12a3D_screen02.pac
+```
 
 ## Map/Stage Information
 
 ### Menu Stages
+
+```code
 select	Dev Menu
 n_title	Menu Screen
 mselect	VR Missions Menu
 tales	Snake Tales Menu
+```
 
 ### Tanker Stages
+
+```code
 w00a	Alt Deck
 w00b	Navigational Deck (Olga Fight)
 w00c	Navigational Deck (After Olga Fight)
@@ -57,8 +66,11 @@ d12t4	Cutscene 9
 d12t4	Cutscene 10
 d13t	Cutscene 11
 d14t	Cutscene 12
+```
 
 ### Plant Stages
+
+```code
 museum	Plant Beggining Message
 w11a	Strut A Sea Dock | A脚底部 海底ドック
 w11b	Strut A Sea Dock (Bomb disposal) | A脚底部 海底ドック
@@ -133,8 +145,11 @@ d080p06
 d080p07	
 d080p08	
 d082p01	
+```
 
 ### VR MISSIONS (Alternate/Snake Tales)
+
+```code
 a00a	Alt Deck
 a00b	Navigational Deck (Meryl Fight)
 a00c	Navigational Deck (After Meryl Fight UNUSED)
@@ -196,8 +211,11 @@ a45a	Arsenal Gear-Sigmoid Colon
 a46a	Arsenal Gear-Rectum
 a51a	Arsenal Gear (After Ray Battle)
 a61a	Federal Hall
+```
 
 ### VR MISSIONS(Sneaking/Eliminate All)
+
+```code
 vs01a	Stage One
 vs02a	Stage Two
 vs03a	Stage Three
@@ -208,8 +226,11 @@ vs07a	Stage Seven
 vs08a	Stage Eight
 vs09A	Stage Nine
 vs10A	Stage Ten
+```
 
 ### VR MISSIONS(Variety)
+
+```code
 sp01a	Stage One
 sp02a	Stage Two
 sp03a	Stage Three
@@ -218,21 +239,30 @@ sp05a	Stage Five
 sp06a	Stage Six
 sp07a	Stage Seven
 sp08a	Stage Eight
+```
 
 ### VR MISSIONS(Streaking Mode)
+
+```code
 st02a	Stage One
 st03a	Stage Two
 st04a	Stage Three
 st05a	Stage Four
+```
 
 ### VR MISSIONS(First Person Mode)
+
+```code
 sp21	Stage One
 sp22	Stage Two
 sp23	Stage Three
 sp24	Stage Four
 sp25	Stage Five
+```
 
 ### VR MISSIONS(Weapons Mode)
+
+```code
 wp01a	Stage One(USP/SOCOM)
 wp02a	Stage Two(USP/SOCOM)
 wp03a	Stage Three(USP/SOCOM)
@@ -273,35 +303,53 @@ wp72a	Stage Two(NO WEAPON/HF.BLADE)
 wp73a	Stage Three(NO WEAPON/HF.BLADE)
 wp74a	Stage Four(NO WEAPON/HF.BLADE)
 wp75a	Stage Five(NO WEAPON/HF.BLADE)
+```
 
 ## Texture Information
 
 ### .XTI Textures
-	Need more info for this type. Uses HEX named subtextures in a bigger texture map. Textures are made up of .DDS textures. Has full size resolution information but somehow further compresses data by cropping out non-used areas.
-	
+
+Need more info for this type. Uses HEX named subtextures in a bigger texture map. Textures are made up of .DDS textures. Has full size resolution information but somehow further compresses data by cropping out non-used areas.
+
 ### .DDS Textures
-	Each main texture in the .XTI file is a .DDS DXT5 texture with interpolated alpha.
-	
+
+Each main texture in the .XTI file is a .DDS DXT5 texture with interpolated alpha.
+
 ### .DDS Cropping
-	By cropping textures (seems to be either 24x or 32x pixel blocks) in height, you can shave size off the texture.
-	
+
+By cropping textures (seems to be either 24x or 32x pixel blocks) in height, you can shave size off the texture.
+
 ## Texture Fonts
 
 ### 2D_tex.xti
+
+```code
 Location Name English = Acumin Variable Concept, Medium, RGB#818181
 Location Name Japanese = MS Gothic, Regular, RGB#818181
+```
 
 ### densou_log.xti
+
+```code
 Font = Lucida Console, Regular, RGB#FFFFFF
+```
 
 ### mgs2logo.xti
+
+```code
 Subtitles = Acumin Variable Concept, Condensed Bold, RGB#8b8b8b
+```
 
 ### node_bg.xti
+
+```code
 Plant Text = Acumin Variable Concept, Bold, RGB#FFFFFF
+```
 
 ## Translated Hiragana/Katakana
 
+```code
 Strut A Deep Sea Dock = A脚底部 海底ドック
 Strut A roof = A脚 屋上
 Strut A Pump Room = A脚 ポンプ室
+```
