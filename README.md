@@ -29,7 +29,7 @@ Run the PowerShell script, or restore your backup.
 
 ## Authors
 
-* **Sam/Nova** [UltimateNova1203](https://github.com/UltimateNova1203)
+* **Sam/Vega** [UltimateNova1203](https://github.com/UltimateNova1203)
 
 Any [contributors](https://github.com/UltimateNova1203/mgs2-pchd/contributors) who may have contributed.
 
