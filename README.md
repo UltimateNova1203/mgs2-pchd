@@ -40,9 +40,9 @@ Any [contributors](https://github.com/UltimateNova1203/mgs2-pchd/contributors) c
 ## Acknowledgments
 
 * AnonRunzes and Nisto (from HCS64), for the sdt_demux.py script.
+* Bluepoint Games, for the HD Edition.
+* Hideo Kojima, for the experience.
 * Joy Division, for various MGS/ZOE tools: https://github.com/Joy-Division/tools-mgs
 * kellymoen, for the MGDecrypt tool: https://github.com/kellymoen/MGDecrypt
 * Turfster, for the Solidus tool.
 * VFansss, for the modern PC patch: https://github.com/VFansss/mgs2-v-s-fix
-* Bluepoint Games, for the HD Edition.
-* Hideo Kojima, for the experience.
