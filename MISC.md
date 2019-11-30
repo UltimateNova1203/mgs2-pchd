@@ -344,6 +344,12 @@ Font = Acumin Pro, SemiBold, RGB#FFFFFF
 Subtitles = Acumin Pro Condensed, Bold, RGB#8b8b8b
 ```
 
+### nodeAlbum.xti
+
+```code
+Font = Acumin Pro, Bold, RGB#FFFFFF
+```
+
 ### node_bg.xti
 
 ```code
