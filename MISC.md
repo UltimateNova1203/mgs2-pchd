@@ -335,8 +335,10 @@ Font = Lucida Console, Regular, RGB#FFFFFF
 ```
 
 ### dot_and_font2.xti
+
 ```code
 Font = Acumin Pro, SemiBold, RGB#FFFFFF
+```
 
 ### mgs2logo.xti
 
