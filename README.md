@@ -2,6 +2,22 @@
 
 Higher quality assets for Metal Gear Solid 2: Substance for PC. The goal is to maximize the quality of assets that the engine will allow.
 
+## Methodology
+
+The idea here is to try to get as crisp and clean of assets as we can. Either by cleaning up existing textures, upscaling/downscaling FMVs with cleanup, recapturing FMVs, ripping from the HD/PS2 versions, etc.
+
+### Text
+
+Text was upscaled 4x using nearest neighbor. This is to get the box font to look extra crisp. From there, manual pixel interpolation was done to ensure a consistent and crisp look. As for other text, they have been recreated with a matching font (see [MISC.md](https://www.github.com/UltimateNova1203/mgs2-pchd/MISC.md)).
+
+### Textures
+
+Textures are ripped from the HD Edition or PS2 version, or upscaled using waifu2x. If there is any color banding, it was manually touched up by hand to fix it as best as possible.
+
+### Videos
+
+Same as previous, FMVs are ripped from the HD Edition where it made sense. For some FMVs, the HD Edition is no better than what shipped with the PC version. These are either recaptured where possible, touched up by hand, or upscaled with waifu2x.
+
 ## Getting Started
 
 ### Important Notice
