@@ -324,7 +324,7 @@ By cropping textures (seems to be either 24x or 32x pixel blocks) in height, you
 ### 2D_tex.xti
 
 ```code
-Location Name English = Acumin Variable Concept, Medium, RGB#818181
+Location Name English = Acumin Pro, Regular, RGB#818181
 Location Name Japanese = MS Gothic, Regular, RGB#818181
 ```
 
@@ -336,18 +336,18 @@ Font = Lucida Console, Regular, RGB#FFFFFF
 
 ### dot_and_font2.xti
 ```code
-Font = Acumin Variable Concept, SemiBold, RGB#FFFFFF
+Font = Acumin Pro, SemiBold, RGB#FFFFFF
 
 ### mgs2logo.xti
 
 ```code
-Subtitles = Acumin Variable Concept, Condensed Bold, RGB#8b8b8b
+Subtitles = Acumin Pro Condensed, Bold, RGB#8b8b8b
 ```
 
 ### node_bg.xti
 
 ```code
-Plant Text = Acumin Variable Concept, Bold, RGB#FFFFFF
+Plant Text = Acumin Pro, Bold, RGB#FFFFFF
 ```
 
 ## Translated Hiragana/Katakana
