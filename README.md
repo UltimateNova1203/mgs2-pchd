@@ -8,7 +8,7 @@ The idea here is to try to get as crisp and clean of assets as we can. Either by
 
 ### Text
 
-Text was upscaled 4x using nearest neighbor. This is to get the box font to look extra crisp. From there, manual pixel interpolation was done to ensure a consistent and crisp look. As for other text, they have been recreated with a matching font (see [MISC.md](https://www.github.com/UltimateNova1203/mgs2-pchd/MISC.md)).
+Text was upscaled 4x using nearest neighbor. This is to get the box font to look extra crisp. From there, manual pixel interpolation was done to ensure a consistent and crisp look. As for other text, they have been recreated with a matching font (see [MISC.md](https://github.com/UltimateNova1203/mgs2-pchd/blob/master/MISC.md)).
 
 ### Textures
 
