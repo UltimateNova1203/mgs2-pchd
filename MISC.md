@@ -334,6 +334,10 @@ Location Name Japanese = MS Gothic, Regular, RGB#818181
 Font = Lucida Console, Regular, RGB#FFFFFF
 ```
 
+### dot_and_font2.xti
+```code
+Font = Acumin Variable Concept, SemiBold, RGB#FFFFFF
+
 ### mgs2logo.xti
 
 ```code
