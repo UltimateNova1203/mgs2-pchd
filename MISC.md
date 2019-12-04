@@ -319,7 +319,7 @@ Each main texture in the .XTI file is a .DDS DXT5 texture with interpolated alph
 
 By cropping textures (seems to be either 24x or 32x pixel blocks) in height, you can shave size off the texture.
 
-## Texture Fonts
+## Texture Info
 
 ### 2D_tex.xti
 
@@ -327,6 +327,14 @@ By cropping textures (seems to be either 24x or 32x pixel blocks) in height, you
 Location Name English = Acumin Pro, Regular, RGB#818181
 Location Name Japanese = MS Gothic, Regular, RGB#818181
 ```
+
+### casting.xti
+Coloring = (Photo) Saturation -50, (Overlay) Opacity 50%, (Overlay) Color Dodge RGB#00637C
+Image Noise = Intensity 30, Saturation 0, Coverage 100%
+
+### clear_code.xti
+Font = Acumin Pro, Bold, RGB#FFFFFF
+Link = Acumin Pro, Regular, RGB#A5B6AD
 
 ### densou_log.xti
 
@@ -337,13 +345,40 @@ Font = Lucida Console, Regular, RGB#FFFFFF
 ### dot_and_font2.xti
 
 ```code
-Font = Acumin Pro, SemiBold, RGB#FFFFFF
+Font = Acumin Pro, Bold, RGB#FFFFFF
+```
+
+### fiction_xx.xti
+
+```code
+Font = Acumin Pro, Regular, RGB#FFFFFF
 ```
 
 ### mgs2logo.xti
 
 ```code
 Subtitles = Acumin Pro Condensed, Bold, RGB#8b8b8b
+```
+
+### moses2.xti
+```
+Book Font Title = Permanent Headline, Regular, RGB#292421
+Book Font Subtitles = Times New Roman, Bold, RGB#141414
+Book Publisher = Times New Roman, Bold, RGB#B0B0B0
+```
+
+### moses3.xti
+```
+Newspaper Name = Perpetua, Regular, RGB#898b7A
+Newspaper Catchphrase = Perpetua, Regular, RGB#000000
+Newspaper Heading = Perpetua, Bold, RGB#000000
+Newspaper Article = Times New Roman, RGB#000000z
+Newspaper Article Author = Acumin Pro, RGB#000000
+Book 1 Font Title = Acumin Pro, Bold, RGB#000000
+Book 1 Font Subtitle = Acumin Pro, Bold RGB#812800
+Book 2 Font Title = Permanent Headline, Regular, RGB#292421
+Book 2 Font Subtitles = Times New Roman, Bold, RGB#141414
+Book 2 Font Publisher = Times New Roman, Bold, RGB#B0B0B0
 ```
 
 ### nodeAlbum.xti
@@ -361,6 +396,9 @@ Plant Text = Acumin Pro, Bold, RGB#FFFFFF
 ## Translated Hiragana/Katakana
 
 ```code
+Beginner = 初級
+Intermediate = 中級
+Expert = 上級
 Strut A Deep Sea Dock = A脚底部 海底ドック
 Strut A roof = A脚 屋上
 Strut A Pump Room = A脚 ポンプ室
