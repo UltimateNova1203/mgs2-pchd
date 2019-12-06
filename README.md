@@ -1,6 +1,6 @@
 # Metal Gear Solid 2: Substance PC "HD"
 
-Higher quality assets for Metal Gear Solid 2: Substance for PC. The goal is to maximize the quality of assets that the engine will allow.
+Higher quality assets for Metal Gear Solid 2: Substance for PC. The goal is to maximize the quality of assets that the engine will allow. I'd like to put something here. Excuse me, Hirano-san.
 
 ## Getting Started
 
