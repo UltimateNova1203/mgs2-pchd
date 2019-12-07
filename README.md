@@ -1,6 +1,6 @@
 # Metal Gear Solid 2: Substance PC "HD"
 
-Higher quality assets for Metal Gear Solid 2: Substance for PC. The goal is to maximize the quality of assets that the engine will allow.
+Higher quality assets for Metal Gear Solid 2: Substance for PC. The goal is to maximize the quality of assets that the engine will allow. I'd like to put something here. Excuse me, Hirano-san.
 
 ## Getting Started
 
@@ -59,6 +59,7 @@ Any [contributors](https://github.com/UltimateNova1203/mgs2-pchd/contributors) c
 
 * AnonRunzes and Nisto (from HCS64), for the sdt_demux.py script.
 * Bluepoint Games, for the HD Edition.
+* gdkchan, for MilkGear: https://github.com/LeonamMiiller/MilkGear
 * Hideo Kojima, for the experience.
 * Joy Division, for various MGS/ZOE tools: https://github.com/Joy-Division/tools-mgs
 * kellymoen, for the MGDecrypt tool: https://github.com/kellymoen/MGDecrypt
