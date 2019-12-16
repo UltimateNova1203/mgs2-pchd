@@ -393,6 +393,11 @@ Font = Acumin Pro, Bold, RGB#FFFFFF
 Plant Text = Acumin Pro, Bold, RGB#FFFFFF
 ```
 
+### padtexture.xti
+```code
+Overlay Text = Acumin Pro, Bold, RGB#B2ED6B
+```
+
 ## Translated Hiragana/Katakana
 
 ```code
