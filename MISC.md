@@ -329,12 +329,16 @@ Location Name Japanese = MS Gothic, Regular, RGB#818181
 ```
 
 ### casting.xti
+```code
 Coloring = (Photo) Saturation -50, (Overlay) Opacity 50%, (Overlay) Color Dodge RGB#00637C
 Image Noise = Intensity 30, Saturation 0, Coverage 100%
+```
 
 ### clear_code.xti
+```code
 Font = Acumin Pro, Bold, RGB#FFFFFF
 Link = Acumin Pro, Regular, RGB#A5B6AD
+```
 
 ### densou_log.xti
 
