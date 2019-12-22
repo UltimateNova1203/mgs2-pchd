@@ -1,1 +1,1 @@
-tools/sdt_demux.py linguist-vendored
+tools/* linguist-vendored
