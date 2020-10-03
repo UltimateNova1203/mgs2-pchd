@@ -4,6 +4,7 @@ Below is a breakdown of the QAR container format. The container is a concatenati
 
 ### Footer of .\cdrom.img\face\f01b\face.qar
 
+<pre>
 04 = Number of mega-textures in container (4)<br/>
    00<br/>
       00 = XTI Texture 1 Data Start<br/>
@@ -42,12 +43,14 @@ Below is a breakdown of the QAR container format. The container is a concatenati
             80 6C 0C = Footer Data Start<br/>
                      00<br/>
 <br/>
+</pre>
 ## XTI Format
 
 Below is a breakdown of the XTI texture format. It is a DXT5-like texture sheet (hence forth called Mega-Texture), filled with multiple sub-textures that apply to the same models/assets.
 
 ### Header of .\cdrom.img\face\f01b\face.qar\save_load.xti
 
+<pre>
 00 00 00 00 04 00 00 00 01 00 00 00<br/>
                                     50 06 00 00 = mega-texture metadata start (0x000650)<br/>
 0B 00 = number of textures in mega-texture (16bit, 11)<br/>
@@ -83,3 +86,4 @@ Below is a breakdown of the XTI texture format. It is a DXT5-like texture sheet 
 <br/>
 <br/>
 mega-texture used height is found by dividing size by width (106,496 B / 1024px = 104px<br/>
+</pre>
