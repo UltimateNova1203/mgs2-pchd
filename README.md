@@ -12,7 +12,7 @@ Please note that the compiled assets (.\mgs2-pchd\cdrom.img) are not the resolut
 
 Ensure you have a backup in order to revert.
 
-Run the PowerShell script, or extract the ZIP somewhere comfortable and follow below steps.
+Extract the ZIP somewhere comfortable, similar to the below.
  
     .mgs2s                  # Game install path
     ├── bin                 # Game EXE and VFansss launcher
@@ -26,10 +26,6 @@ Run the PowerShell script, or extract the ZIP somewhere comfortable and follow b
         └── source          # Source assets folder
 
 Drag and drop the CDROM.IMG folder from MGS2-PCHD over the top of the install path's CDROM.IMG folder.
-
-### Uninstalling
-
-Run the PowerShell script, or restore your backup.
 
 ## Methodology
 
