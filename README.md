@@ -47,7 +47,8 @@ Same as previous, FMVs are ripped from the HD Edition where it made sense. For s
 
 ## Authors
 
-* **Sam/Vega** [UltimateNova1203](https://github.com/UltimateNova1203)
+* **Samantha** [UltimateNova1203](https://github.com/UltimateNova1203)
+* **Michelle** [TachiCola](https://github.com/TachiCola)
 
 Any [contributors](https://github.com/UltimateNova1203/mgs2-pchd/contributors) can be found here.
 
@@ -59,5 +60,6 @@ Any [contributors](https://github.com/UltimateNova1203/mgs2-pchd/contributors) c
 * Hideo Kojima, for the experience.
 * Joy Division, for various MGS/ZOE tools: https://github.com/Joy-Division/tools-mgs
 * kellymoen, for the MGDecrypt tool: https://github.com/kellymoen/MGDecrypt
-* Turfster/LionheartUK/TheDyingInformant, for the Solidus tool.
+* TachiCola, for assistance with file formatting and tools: https://github.com/tachicola/pkgrip
+* Turfster, for the Solidus tool.
 * VFansss, for the modern PC patch: https://github.com/VFansss/mgs2-v-s-fix
